@@ -1,0 +1,7 @@
+C:\Users\Iyobed\source\repos\Airbnb interview find numbers add to k\Airbnb interview find numbers add to k\bin\Debug\Airbnb interview find numbers add to k.exe.config
+C:\Users\Iyobed\source\repos\Airbnb interview find numbers add to k\Airbnb interview find numbers add to k\bin\Debug\Airbnb interview find numbers add to k.exe
+C:\Users\Iyobed\source\repos\Airbnb interview find numbers add to k\Airbnb interview find numbers add to k\bin\Debug\Airbnb interview find numbers add to k.pdb
+C:\Users\Iyobed\source\repos\Airbnb interview find numbers add to k\Airbnb interview find numbers add to k\obj\Debug\Airbnb interview find numbers add to k.csprojAssemblyReference.cache
+C:\Users\Iyobed\source\repos\Airbnb interview find numbers add to k\Airbnb interview find numbers add to k\obj\Debug\Airbnb interview find numbers add to k.csproj.CoreCompileInputs.cache
+C:\Users\Iyobed\source\repos\Airbnb interview find numbers add to k\Airbnb interview find numbers add to k\obj\Debug\Airbnb interview find numbers add to k.exe
+C:\Users\Iyobed\source\repos\Airbnb interview find numbers add to k\Airbnb interview find numbers add to k\obj\Debug\Airbnb interview find numbers add to k.pdb
